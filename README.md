@@ -12,13 +12,13 @@ The application automatically checks dataset quality, identifies missing values 
 
 ### 🚀 Live Demo
 
-[▶️ Open DataDoctor AI](YOUR_STREAMLIT_APP_LINK)
+[▶️ Open DataDoctor AI]
+https://datadoctor-ai.streamlit.app/
 
 ### 💻 GitHub Repository
 
-[📂 View Source Code](YOUR_GITHUB_REPOSITORY_LINK)
-
-> Replace the two links above with your actual links after deployment.
+[📂 View Source Code]()
+https://github.com/rajeshwarikotian2007-crypto/DataDoctor-AI.git
 
 ---
 
