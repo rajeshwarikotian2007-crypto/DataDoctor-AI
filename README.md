@@ -1,75 +1,69 @@
 # 🩺 DataDoctor AI
 
-## AI-Powered Dataset Health & Machine Learning Assistant
+### AI-Powered Dataset Health, Cleaning & Machine Learning Assistant
 
-DataDoctor AI is a Python-based application that analyzes datasets, detects data-quality problems, automatically cleans datasets, and prepares them for machine learning.
+DataDoctor AI is an interactive machine learning application that helps users understand, clean, and analyze CSV datasets without requiring advanced data-science knowledge.
 
-## 🚀 Features
+The application automatically checks dataset quality, identifies missing values and duplicate records, cleans the data, trains a machine learning model, evaluates its performance, identifies important features, and generates predictions.
 
-- CSV dataset upload
-- Dataset analysis
-- Missing value detection
-- Duplicate detection
-- Data health score
-- Automatic data cleaning
-- Download cleaned datasets
-- Random Forest machine learning
-- Model evaluation
-- Feature importance
-- Machine learning prediction
+---
 
-## 🛠️ Technologies
+## 🌐 Project Links
 
-- Python
-- Pandas
-- Scikit-learn
-- Streamlit
+### 🚀 Live Demo
 
-## ▶️ How to Run
+[▶️ Open DataDoctor AI](YOUR_STREAMLIT_APP_LINK)
 
-1. Install the required libraries:
+### 💻 GitHub Repository
 
-   pip install -r requirements.txt
+[📂 View Source Code](YOUR_GITHUB_REPOSITORY_LINK)
 
-2. Start the application:
+> Replace the two links above with your actual links after deployment.
 
-   python -m streamlit run app.py
+---
 
-3. Upload a CSV dataset.
+# 🎯 Problem Statement
 
-4. Analyze, clean, and train the machine learning model.
+Working with raw datasets often requires several repetitive steps:
 
-## 🤖 Machine Learning Workflow
+- Checking missing values
+- Finding duplicate records
+- Understanding dataset structure
+- Cleaning incorrect or incomplete data
+- Selecting useful features
+- Training machine learning models
+- Evaluating model performance
+- Making predictions
 
-Upload Dataset
-↓
-Data Analysis
-↓
-Data Cleaning
-↓
+DataDoctor AI combines these steps into one simple interface.
+
+---
+
+# 💡 What DataDoctor AI Does
+
+The application follows this workflow:
+
+```text
+CSV Dataset
+     ↓
+Dataset Analysis
+     ↓
+Data Quality Check
+     ↓
+Missing Value Detection
+     ↓
+Duplicate Detection
+     ↓
+Automatic Data Cleaning
+     ↓
 Feature Selection
-↓
+     ↓
 Train/Test Split
-↓
-Random Forest
-↓
+     ↓
+Random Forest Model
+     ↓
 Model Evaluation
-↓
+     ↓
 Feature Importance
-↓
+     ↓
 Prediction
-
-## 🎯 Future Improvements
-
-- Automatic anomaly detection
-- Support for classification datasets
-- Multiple ML model comparison
-- AI-generated data-quality reports
-- Natural-language dataset questions
-- Automated model recommendations
-
-## 👩‍💻 Author
-
-**Rajeshwari V Kotian**
-
-Artificial Intelligence and Machine Learning Student
